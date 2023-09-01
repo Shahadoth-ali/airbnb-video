@@ -16,7 +16,7 @@ import SearchModal from './components/modals/SearchModal'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export const dynamic = 'auto';
+
 
 export const metadata: Metadata = {
   title: 'Airbnb',
