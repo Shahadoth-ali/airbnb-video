@@ -40,7 +40,7 @@ const [dateRange,setDateRange]=useState<Range>({
 
 const Map=useMemo(()=>dynamic(()=>import('../Map'),{
    ssr:false,
-}),[location])
+}),[])
 
 
 
