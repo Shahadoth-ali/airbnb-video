@@ -1,6 +1,7 @@
 {
   "name": "airbnb-video",
   "version": "0.1.0",
+  "homepage": "https://booking-site-visit.vercel.app/api/auth/callback/google",
   "private": true,
   "scripts": {
     "dev": "next dev",
